@@ -201,3 +201,27 @@
 	do_colouration = 1
 	color_blend_mode = ICON_MULTIPLY
 	extra_overlay = "bigbug2"
+
+// /datum/sprite_accessory/tail/small_bugbum_vass//There's no difference.
+// 	name = "Bug Abdomen, Alt, Small (Dual-Color)"
+// 	icon = 'modular_chomp/icons/mob/vore/tails.dmi'
+// 	icon_state = "smallbug1"
+// 	do_colouration = 1
+// 	color_blend_mode = ICON_MULTIPLY
+// 	extra_overlay = "smallbug2"
+
+/datum/sprite_accessory/tail/mid_bugbum_vass
+	name = "Bug Abdomen, Alt, vass, Medium (Dual-Color)"
+	icon = 'modular_chomp/icons/mob/vore/tails.dmi'
+	icon_state = "midbug1"
+	do_colouration = 1
+	color_blend_mode = ICON_MULTIPLY
+	extra_overlay = "midbug2"
+
+/datum/sprite_accessory/tail/big_bugbum_vass
+	name = "Bug Abdomen, Alt, vass, Big (Dual-Color)"
+	icon = 'modular_chomp/icons/mob/vore/tails.dmi'
+	icon_state = "bigbug1"
+	do_colouration = 1
+	color_blend_mode = ICON_MULTIPLY
+	extra_overlay = "bigbug2"
